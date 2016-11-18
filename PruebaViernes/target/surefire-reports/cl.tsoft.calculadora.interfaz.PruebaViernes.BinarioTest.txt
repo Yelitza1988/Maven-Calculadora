@@ -1,9 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: cl.tsoft.calculadora.interfaz.PruebaViernes.BinarioTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.067 sec <<< FAILURE!
-testBinario(cl.tsoft.calculadora.interfaz.PruebaViernes.BinarioTest)  Time elapsed: 0.007 sec  <<< FAILURE!
-junit.framework.AssertionFailedError: Not yet implemented
-	at junit.framework.Assert.fail(Assert.java:47)
-	at cl.tsoft.calculadora.interfaz.PruebaViernes.BinarioTest.testBinario(BinarioTest.java:16)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.022 sec

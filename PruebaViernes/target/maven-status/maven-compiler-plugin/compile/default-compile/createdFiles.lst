@@ -1,0 +1,7 @@
+cl\tsoft\calculadora\logica\Octal.class
+cl\tsoft\calculadora\logica\Sistema.class
+cl\tsoft\calculadora\logica\Conversion.class
+cl\tsoft\calculadora\interfaz\PruebaViernes\AppCalculadora.class
+cl\tsoft\calculadora\logica\Decimal.class
+cl\tsoft\calculadora\logica\Hexadecimal.class
+cl\tsoft\calculadora\logica\Binario.class

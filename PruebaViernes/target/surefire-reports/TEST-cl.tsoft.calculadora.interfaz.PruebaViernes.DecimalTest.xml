@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="4" failures="0" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" time="0.011" errors="0" skipped="0">
+<testsuite tests="4" failures="0" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" time="0.005" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_112\jre\bin"/>
@@ -20,7 +20,7 @@
     <property name="basedir" value="C:\Users\yelitza.cedeno\workspace\PruebaViernes"/>
     <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_112\jre\lib\endorsed"/>
     <property name="os.arch" value="amd64"/>
-    <property name="surefire.real.class.path" value="C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefirebooter4089507103406636488.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefirebooter9215189968360992451.jar"/>
     <property name="java.io.tmpdir" value="C:\Users\YELITZ~1.CED\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
@@ -44,7 +44,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_112\jre"/>
-    <property name="sun.java.command" value="C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefirebooter4089507103406636488.jar C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefire9079167669467746294tmp C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefire8327566332004271964tmp"/>
+    <property name="sun.java.command" value="C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefirebooter9215189968360992451.jar C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefire6585793923079521540tmp C:\Users\YELITZ~1.CED\AppData\Local\Temp\surefire5716918854412146540tmp"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="es"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -61,8 +61,8 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testSuma" time="0.01"/>
-  <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testResta" time="0"/>
+  <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testSuma" time="0.003"/>
   <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testDivision" time="0"/>
+  <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testResta" time="0"/>
   <testcase classname="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest" name="cl.tsoft.calculadora.interfaz.PruebaViernes.DecimalTest.testMultiplicacion" time="0"/>
 </testsuite>
